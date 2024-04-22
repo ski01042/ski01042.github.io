@@ -7,7 +7,7 @@ excerpt: Facing the dual challenges of maintaining patient privacy and managing 
 
 ![](/images/demo/demo-landscape.jpg)
 
-The poster, presentation file, and codes are available [here](https://https://qrco.de/bevxN8).
+The poster, presentation file, and codes are available [here](https://qrco.de/bevxN8).
 
 
 ## Business Problem
