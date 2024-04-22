@@ -25,9 +25,3 @@ Simples is packed with powerful features to showcase your content:
 * Customize everything – colors, fonts, sizes etc. – via a simple settings file
 * Works with GitHub Pages
 * Updated and supported by the developers
-
-## Get Simples
-
-Simples is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/simples-blog-jekyll-theme" class="button button--large">Get This Theme</a>
