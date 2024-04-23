@@ -12,7 +12,7 @@ The poster, presentation file, and codes are available [here](https://qrco.de/be
 
 ## Poster
 
-<object data="/pdf/IPPoster.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/pdf/IPPoster.pdf" type='application/pdf'></object>
 
 
 ## Video Presentation
