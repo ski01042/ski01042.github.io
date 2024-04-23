@@ -13,4 +13,4 @@ The project team predicted Walmart's sales quantities across California, Texas, 
 
 <iframe width="100%" height="800" src="/pdf/Walmart.pdf">
 
-The presentation file is also available [here](https://drive.google.com/file/d/1qms-hd8JY7gOYkdrW8lMMgIeGm_9cLBa/view?usp=drive_link).
+The presentation slides are also available [here](https://drive.google.com/file/d/1qms-hd8JY7gOYkdrW8lMMgIeGm_9cLBa/view?usp=drive_link).
