@@ -11,8 +11,7 @@ The poster, presentation file, and codes are available [here](https://qrco.de/be
 
 
 ## Poster
-
-<object data="/pdf/IPPoster.pdf" type='application/pdf'></object>
+{% pdf "/pdf/IPPoster.pdf" no_link %}
 
 
 ## Video Presentation
