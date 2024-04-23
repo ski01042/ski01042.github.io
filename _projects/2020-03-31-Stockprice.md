@@ -11,6 +11,6 @@ The project team constructed machine learning models for stock price prediction 
 
 ## Presentation Slides
 
-<iframe width="100%" height="800" src="/pdf/Stockprice.pdf">
-
 The presentation file is also available [here](https://drive.google.com/file/d/1gSTgzWButCcP8ZlmdT6r_Je0oQuGampu/view?usp=drive_link).
+
+<iframe width="100%" height="800" src="/pdf/Stockprice.pdf">
