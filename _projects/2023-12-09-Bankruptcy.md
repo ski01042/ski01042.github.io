@@ -11,6 +11,6 @@ The project team developed predictive models that combine various econometric me
 
 ## Presentation Slides
 
-<iframe width="100%" height="800" src="/pdf/Bankruptcy.pdf">
-
 The presentation file is also available [here](https://drive.google.com/file/d/1J4rpt0_QBFMmVllSiHMTJjHX0IW0AzZ_/view?usp=drive_link).
+
+<iframe width="100%" height="800" src="/pdf/Bankruptcy.pdf">
