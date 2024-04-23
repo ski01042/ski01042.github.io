@@ -7,4 +7,4 @@ excerpt: The project team constructed machine learning models for stock price pr
 
 ![](/images/stock.jpg)
 
-The poster, presentation file, and codes are available [here](https://drive.google.com/file/d/1gSTgzWButCcP8ZlmdT6r_Je0oQuGampu/view?usp=drive_link).
+The presentation file is available [here](https://drive.google.com/file/d/1gSTgzWButCcP8ZlmdT6r_Je0oQuGampu/view?usp=drive_link).
