@@ -5,4 +5,4 @@ subtitle: Data scientist actively seeking opportunities in the New York Metropol
 featured_image: /images/social.jpg
 ---
 Download my resume [here](https://qrco.de/bevxN8).
-![](/images/resume.jpg)
+<iframe width="100%" height="2000" src="/pdf/Resume.pdf">
