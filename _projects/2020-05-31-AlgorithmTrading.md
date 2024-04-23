@@ -7,6 +7,8 @@ excerpt: The project team designed an algorithm trading model, backtesting and r
 
 ![](/images/egg.jpg)
 
+The project team designed an algorithm trading model, backtesting and rebalancing the ETF portfolio (based on the NASDAQ-100 Index). As a result of the backtesting, the model could achieve an average annual return of 12.75%.
+
 ## Presentation Slides
 
 <iframe width="100%" height="800" src="/pdf/Algorithm.pdf">
