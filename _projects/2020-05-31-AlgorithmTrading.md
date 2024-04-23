@@ -7,4 +7,8 @@ excerpt: The project team designed an algorithm trading model, backtesting and r
 
 ![](/images/egg.jpg)
 
-The presentation file is available [here](https://drive.google.com/file/d/1CpFnc-MPnYjFZ-kflWFUHg4zCT4nAVgt/view?usp=drive_link).
+## Presentation Slides
+
+<iframe width="100%" height="800" src="/pdf/Algorithm.pdf">
+
+The presentation file is also available [here](https://drive.google.com/file/d/1CpFnc-MPnYjFZ-kflWFUHg4zCT4nAVgt/view?usp=drive_link).
