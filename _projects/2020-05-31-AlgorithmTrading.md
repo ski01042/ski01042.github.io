@@ -11,6 +11,6 @@ The project team designed an algorithm trading model, backtesting and rebalancin
 
 ## Presentation Slides
 
-<iframe width="100%" height="800" src="/pdf/Algorithm.pdf">
-
 The presentation file is also available [here](https://drive.google.com/file/d/1CpFnc-MPnYjFZ-kflWFUHg4zCT4nAVgt/view?usp=drive_link).
+
+<iframe width="100%" height="800" src="/pdf/Algorithm.pdf">
