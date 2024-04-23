@@ -1,11 +1,11 @@
 ---
 title: 'Centralized Database Management System for Eco-transportation Company'
 date: 2023-10-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/myofficecap.jpg'
 excerpt: The project team developed a more structured and centralized Database Management System (DBMS) facilitated through SQL for the eco-transportation company in India.
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/myofficecap.jpg)
 
 The poster, presentation file, and codes are available [here](https://qrco.de/bevxN8).
 
