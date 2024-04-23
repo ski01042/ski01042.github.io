@@ -9,12 +9,10 @@ excerpt: Facing the dual challenges of maintaining patient privacy and managing 
 
 The poster, presentation file, and codes are available [here](https://qrco.de/bevxN8).
 
+## Video Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_vCb8h40J9s?si=-P0a4MMR7ARykkQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Poster
 
 <iframe width="100%" height="800" src="/pdf/IPPoster.pdf">
-
-
-## Video Presentation
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_vCb8h40J9s?si=-P0a4MMR7ARykkQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
