@@ -7,6 +7,8 @@ excerpt: Facing the dual challenges of maintaining patient privacy and managing 
 
 ![](/images/privacy.jpg)
 
+Facing the dual challenges of maintaining patient privacy and managing high data protection costs, the healthcare industry requires innovative solutions. Our synthetic data approach ensures enhanced privacy, reduces operational expenses, and provides valuable data for research, driving cost-effective advancements in healthcare.
+
 The poster, presentation file, and codes are available [here](https://qrco.de/bevxN8).
 
 ## Video Presentation
