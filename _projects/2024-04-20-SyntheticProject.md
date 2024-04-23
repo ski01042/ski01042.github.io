@@ -10,53 +10,9 @@ excerpt: Facing the dual challenges of maintaining patient privacy and managing 
 The poster, presentation file, and codes are available [here](https://qrco.de/bevxN8).
 
 
-## Business Problem
+## Poster
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-
-## Analytics Problem
-
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-
-## Data Exploration
-
-Here's a really neat custom feature we added – galleries:
-
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-## Methodology
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-
-## Model Building
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-
-## Results
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-
-## Implications
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 ## Video Presentation
