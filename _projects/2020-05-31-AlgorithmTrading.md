@@ -1,11 +1,11 @@
 ---
 title: 'Algorithm trading model: Backtesting and rebalancing ETF portfolio'
 date: 2020-05-31 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/egg.jpg'
 excerpt: The project team designed an algorithm trading model, backtesting and rebalancing the ETF portfolio (based on the NASDAQ-100 Index). As a result of the backtesting, the model could achieve an average annual return of 12.75%.
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/egg.jpg)
 
 The poster, presentation file, and codes are available [here](https://qrco.de/bevxN8).
 
