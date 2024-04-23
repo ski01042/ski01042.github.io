@@ -63,4 +63,4 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 
 Check out our video presentation below.
 
-<iframe src="https://youtu.be/_vCb8h40J9s?si=k2Wf8OiHJ6bsGFYC" width="640" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://youtu.be/_vCb8h40J9s?si=k2Wf8OiHJ6bsGFYC?color=ffffff&title=0&byline=0&portrait=0" width="640" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
