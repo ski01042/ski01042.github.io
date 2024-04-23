@@ -9,4 +9,8 @@ excerpt: The project team developed predictive models that combine various econo
 
 The project team developed predictive models that combine various econometric measures and allow one to foresee a firm's financial condition. The models were evaluated in the Kaggle competition. Our team's best model was an ensemble model of Logistic Regression, Gradient Boosting, and Neural Network models, which got a 0.9182 AUC score.
 
-The presentation file is available [here](https://drive.google.com/file/d/1J4rpt0_QBFMmVllSiHMTJjHX0IW0AzZ_/view?usp=drive_link).
+## Presentation Slides
+
+<iframe width="100%" height="800" src="/pdf/Bankruptcy.pdf">
+
+The presentation file is also available [here](https://drive.google.com/file/d/1J4rpt0_QBFMmVllSiHMTJjHX0IW0AzZ_/view?usp=drive_link).
