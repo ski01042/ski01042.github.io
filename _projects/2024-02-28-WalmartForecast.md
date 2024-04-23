@@ -1,11 +1,11 @@
 ---
 title: 'Forecasting Walmart Sales with Machine Learning'
 date: 2024-02-28 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/walmart.jpg'
 excerpt: The project team predicted Walmart's sales quantities across California, Texas, and Wisconsin with 5-year sales, price, and holiday data. We developed Deep Neural Networks (DNN), Convolutional Neural Networks (CNN), Long Short-term Memory (LSTM), and Transformer. The LSTM model performed the best, with a Weighted Root Mean Squared Scaled Error (RMSSE) of 0.6860.
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/walmart.jpg)
 
 The poster, presentation file, and codes are available [here](https://qrco.de/bevxN8).
 
