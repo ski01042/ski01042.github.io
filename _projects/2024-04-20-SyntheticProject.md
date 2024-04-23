@@ -12,8 +12,6 @@ The poster, presentation file, and codes are available [here](https://qrco.de/be
 
 ## Poster
 
-{% pdf "/pdf/IPPoster.pdf" width=1000px height=700px no_link %}
-
 <iframe width="100%" height="800" src="/pdf/IPPoster.pdf">
 
 
