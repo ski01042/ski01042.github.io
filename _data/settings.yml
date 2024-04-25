@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Seonkyu Kim
   site_tagline: Data Scientist | Purdue MS BAIM'24
-  favicon_image: /images/favicon.png
+  favicon_image: /images/Favicon.png
 
 header_settings:
   avatar_image: /images/enhanced.jpg
