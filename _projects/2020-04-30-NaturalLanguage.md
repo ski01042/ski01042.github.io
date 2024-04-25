@@ -11,6 +11,6 @@ The project team engineered deep learning models for natural language translatio
 
 ## Presentation Slides
 
-The presentation slides are also available [here](https://drive.google.com/file/d/1uzw-Ng8xgfAjoPCc6dNnWGeeXlAfE3KC/view?usp=drive_link).
+The presentation slides are also available [here](https://drive.google.com/file/d/1Qzm0PfJkGAI35nwg6ZTkSzdisIJ5L5lA/view?usp=drive_link).
 
 <iframe width="100%" height="800" src="/pdf/Translator.pdf">
