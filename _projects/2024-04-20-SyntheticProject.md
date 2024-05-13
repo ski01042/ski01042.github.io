@@ -1,5 +1,5 @@
 ---
-title: 'Enhancing Patient Privacy with Synthetic Data Generation'
+title: 'Enhancing Patient Privacy with Synthetic Data Generation (Future Edelman Impact Competition Finalist)'
 date: 2024-04-20 00:00:00
 featured_image: '/images/privacy.jpg'
 excerpt: Facing the dual challenges of maintaining patient privacy and managing high data protection costs, the healthcare industry requires innovative solutions. Our synthetic data approach ensures enhanced privacy, reduces operational expenses, and provides valuable data for research, driving cost-effective advancements in healthcare.
