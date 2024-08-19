@@ -4,5 +4,5 @@ description: Seonkyu's Resume
 subtitle: Data scientist actively seeking opportunities in the New York Metropolitan area.
 featured_image: /images/social.png
 ---
-Download my resume [here](https://drive.google.com/file/d/1KjWMZkSBXjeLjipUKJ8rifUnQNvmbeDo/view?usp=drive_link).
+Download my resume [here](https://drive.google.com/file/d/1dAdHje0J-gOTW8mLPXImWuNI50ePmfux/view?usp=drive_link).
 <iframe width="100%" height="2000" src="/pdf/Resume.pdf">
